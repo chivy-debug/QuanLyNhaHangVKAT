@@ -1,0 +1,93 @@
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\bin\Debug\QuanLyNhaHangVKAT.exe.config
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\bin\Debug\QuanLyNhaHangVKAT.exe
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\bin\Debug\QuanLyNhaHangVKAT.pdb
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.csproj.AssemblyReference.cache
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.flogin.resources
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.Properties.Resources.resources
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.csproj.GenerateResource.cache
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.csproj.CoreCompileInputs.cache
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.exe
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.pdb
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.fTableManager.resources
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.fAccountIformation.resources
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.fAdmin.resources
+C:\Users\HA HUY THANG\Downloads\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\bin\Debug\QuanLyNhaHangVKAT.exe.config
+C:\Users\HA HUY THANG\Downloads\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\bin\Debug\QuanLyNhaHangVKAT.exe
+C:\Users\HA HUY THANG\Downloads\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\bin\Debug\QuanLyNhaHangVKAT.pdb
+C:\Users\HA HUY THANG\Downloads\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.csproj.AssemblyReference.cache
+C:\Users\HA HUY THANG\Downloads\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.fAccountIformation.resources
+C:\Users\HA HUY THANG\Downloads\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.fAdmin.resources
+C:\Users\HA HUY THANG\Downloads\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.flogin.resources
+C:\Users\HA HUY THANG\Downloads\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.fTableManager.resources
+C:\Users\HA HUY THANG\Downloads\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.Properties.Resources.resources
+C:\Users\HA HUY THANG\Downloads\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.csproj.GenerateResource.cache
+C:\Users\HA HUY THANG\Downloads\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.csproj.CoreCompileInputs.cache
+C:\Users\HA HUY THANG\Downloads\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.exe
+C:\Users\HA HUY THANG\Downloads\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.pdb
+C:\Users\HA HUY THANG\Downloads\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\bin\Debug\vi\QuanLyNhaHangVKAT.resources.dll
+C:\Users\HA HUY THANG\Downloads\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.fAdmin.vi.resources
+C:\Users\HA HUY THANG\Downloads\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\vi\QuanLyNhaHangVKAT.resources.dll
+C:\Users\HA HUY THANG\Downloads\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.UserMonAn.resources
+C:\Users\HA HUY THANG\Downloads\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.doanhThu.resources
+C:\Users\HA HUY THANG\Downloads\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.LoaiMonAn.resources
+C:\Users\HA HUY THANG\Downloads\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.TaiKhoan.resources
+C:\Users\HA HUY THANG\Downloads\VKAT\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\bin\Debug\QuanLyNhaHangVKAT.exe.config
+C:\Users\HA HUY THANG\Downloads\VKAT\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\bin\Debug\QuanLyNhaHangVKAT.exe
+C:\Users\HA HUY THANG\Downloads\VKAT\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\bin\Debug\QuanLyNhaHangVKAT.pdb
+C:\Users\HA HUY THANG\Downloads\VKAT\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\bin\Debug\vi\QuanLyNhaHangVKAT.resources.dll
+C:\Users\HA HUY THANG\Downloads\VKAT\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.csproj.AssemblyReference.cache
+C:\Users\HA HUY THANG\Downloads\VKAT\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.doanhThu.resources
+C:\Users\HA HUY THANG\Downloads\VKAT\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.fAccountIformation.resources
+C:\Users\HA HUY THANG\Downloads\VKAT\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.fAdmin.resources
+C:\Users\HA HUY THANG\Downloads\VKAT\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.flogin.resources
+C:\Users\HA HUY THANG\Downloads\VKAT\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.fTableManager.resources
+C:\Users\HA HUY THANG\Downloads\VKAT\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.LoaiMonAn.resources
+C:\Users\HA HUY THANG\Downloads\VKAT\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.Properties.Resources.resources
+C:\Users\HA HUY THANG\Downloads\VKAT\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.TaiKhoan.resources
+C:\Users\HA HUY THANG\Downloads\VKAT\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.UserMonAn.resources
+C:\Users\HA HUY THANG\Downloads\VKAT\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.fAdmin.vi.resources
+C:\Users\HA HUY THANG\Downloads\VKAT\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.csproj.GenerateResource.cache
+C:\Users\HA HUY THANG\Downloads\VKAT\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.csproj.CoreCompileInputs.cache
+C:\Users\HA HUY THANG\Downloads\VKAT\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\vi\QuanLyNhaHangVKAT.resources.dll
+C:\Users\HA HUY THANG\Downloads\VKAT\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.exe
+C:\Users\HA HUY THANG\Downloads\VKAT\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.pdb
+C:\Users\Admin\OneDrive\Desktop\GiaoDien\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\bin\Debug\QuanLyNhaHangVKAT.exe.config
+C:\Users\Admin\OneDrive\Desktop\GiaoDien\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\bin\Debug\QuanLyNhaHangVKAT.exe
+C:\Users\Admin\OneDrive\Desktop\GiaoDien\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\bin\Debug\QuanLyNhaHangVKAT.pdb
+C:\Users\Admin\OneDrive\Desktop\GiaoDien\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\bin\Debug\vi\QuanLyNhaHangVKAT.resources.dll
+C:\Users\Admin\OneDrive\Desktop\GiaoDien\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\GiaoDien\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.doanhThu.resources
+C:\Users\Admin\OneDrive\Desktop\GiaoDien\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.fAccountIformation.resources
+C:\Users\Admin\OneDrive\Desktop\GiaoDien\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.fAdmin.resources
+C:\Users\Admin\OneDrive\Desktop\GiaoDien\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.flogin.resources
+C:\Users\Admin\OneDrive\Desktop\GiaoDien\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.fTableManager.resources
+C:\Users\Admin\OneDrive\Desktop\GiaoDien\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.LoaiMonAn.resources
+C:\Users\Admin\OneDrive\Desktop\GiaoDien\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Desktop\GiaoDien\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.TaiKhoan.resources
+C:\Users\Admin\OneDrive\Desktop\GiaoDien\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.UserMonAn.resources
+C:\Users\Admin\OneDrive\Desktop\GiaoDien\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.fAdmin.vi.resources
+C:\Users\Admin\OneDrive\Desktop\GiaoDien\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Desktop\GiaoDien\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\GiaoDien\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\vi\QuanLyNhaHangVKAT.resources.dll
+C:\Users\Admin\OneDrive\Desktop\GiaoDien\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.exe
+C:\Users\Admin\OneDrive\Desktop\GiaoDien\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.pdb
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT_Final\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\bin\Debug\QuanLyNhaHangVKAT.exe.config
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT_Final\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\bin\Debug\QuanLyNhaHangVKAT.exe
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT_Final\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\bin\Debug\QuanLyNhaHangVKAT.pdb
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT_Final\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\bin\Debug\vi\QuanLyNhaHangVKAT.resources.dll
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT_Final\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.csproj.AssemblyReference.cache
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT_Final\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.doanhThu.resources
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT_Final\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.fAccountIformation.resources
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT_Final\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.fAdmin.resources
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT_Final\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.flogin.resources
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT_Final\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.fTableManager.resources
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT_Final\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.LoaiMonAn.resources
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT_Final\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.Properties.Resources.resources
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT_Final\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.TaiKhoan.resources
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT_Final\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.UserMonAn.resources
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT_Final\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.fAdmin.vi.resources
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT_Final\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.csproj.GenerateResource.cache
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT_Final\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.csproj.CoreCompileInputs.cache
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT_Final\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\vi\QuanLyNhaHangVKAT.resources.dll
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT_Final\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.exe
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT_Final\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.pdb
